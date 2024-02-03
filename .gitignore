@@ -3,3 +3,4 @@ dist/
 *.html
 tes.ts
 .env
+package-lock.json
